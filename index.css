@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+}
+.container{
+    width: 50%;
+    background-color: brown;
+    border-radius: 5px;
+    overflow: hidden;
+    margin-top: 50px;
+   margin-left: 400px;
+ 
+}
