@@ -61,20 +61,20 @@ var myFunction = function () {
             else {
                 switch (day) {
                     case 0:
-                        name = "mutua";
+                        name = "Kwasi";
                         break;
                     case 1:
-                        name = "musyoka";
+                        name = "Kwando";
                         break;
-                    case 2: name = "muithya";
+                    case 2: name = "kwabena";
                         break;
-                    case 3: name = "mutuku";
+                    case 3: name = "kwaku";
                         break;
-                    case 4: name = "mwendwa";
+                    case 4: name = "Yaw";
                         break;
-                    case 5: name = "peter";
+                    case 5: name = "Kofi";
                         break;
-                    case 6: name = "juma";
+                    case 6: name = "Kwame";
                         break;
 
                 }
