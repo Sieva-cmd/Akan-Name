@@ -6,8 +6,7 @@ body{
     background-color: brown;
     border-radius: 5px;
     overflow: hidden;
-    margin-top: 20px;
-   margin-left: 400px;
+   
  
 }
 #error{
@@ -58,4 +57,30 @@ input ,button{
 }
 #gender{
     margin-left: 80px;
+}
+
+@media  only screen and(min-width:360px)
+and (min-width:414)
+and (min-width:480)
+and (min-width:540)
+
+{ .container{  
+    text-align: center;  
+    margin-top: 20px;
+    margin-left: 400px;
+     
+    }
+    }
+    
+
+@media screen 
+and (min-width:1024px)
+and (min-device-width: 1200px) 
+and (max-device-width: 1600px) 
+and (-webkit-min-device-pixel-ratio: 1)  {
+    .container{    
+    margin-top: 20px;
+    margin-left: 400px;
+     
+    }
 }
