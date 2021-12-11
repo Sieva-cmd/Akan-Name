@@ -10,8 +10,27 @@ body{
    margin-left: 400px;
  
 }
-.container .col-md-10 #error{
+#error{
     width: 40%;
-    background-color: white;
-    color: black;
+    color:white;
 }
+.container h3{
+    margin-left: 100px;
+}
+.form-group{
+    margin-left: 100px;
+}
+#formGroupExampleInput{
+    margin-top: 20px;
+}
+input ,button{
+    display: inline;
+    padding: 10px 20px;
+}
+#month, #day{
+    width: 30%;
+}
+#year {
+    width: 30%;
+}
+
