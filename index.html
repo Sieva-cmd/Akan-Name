@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="index.css">
+    <title>Akan Name system</title>
+</head>
+
+<body>
+    <Div class="container">
+        <Div class="row">
+            <h3>AKAN NAME SYSTEM</h3>
+
+        </Div>
+        <Div class="row">
+            <h4>Enter Your birthday to display your Akan name.</h4>
+        </Div>
+    </Div>
+    <div id="error"> </div>
+    <Div class="container">
+        <Div class="row">
+            <Div class="col-md-10">
+                <h5>Enter your bithday</h5>
+                <form id="form">
+                    <div class="form-group">
+                        <label for="exampleInputDay">day</label>
+                        <input type="text" class="form-control" id="exampleInputDay" placeholder="DD">
+
+                    </div>
+                  
+                    <div class="form-group">
+                        <label for="exampleInputMonth">Month</label>
+                        <input type="text" class="form-control" id="exampleInputMonth" placeholder="MM">
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="exampleInputMonth">Year</label>
+                        <input type="text" class="form-control" id="exampleInputYear" placeholder="YYYY">
+                    </div>
+                    <div class="form-check">
+                        <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios1"
+                            value="option1" checked>
+                        <label class="form-check-label" for="exampleRadios1">
+                            female
+                        </label>
+                    </div>
+                    <div class="form-check">
+                        <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios2"
+                            value="option2">
+                        <label class="form-check-label" for="exampleRadios2">
+                            male
+                        </label>
+                    </div>
+                    <button type="submit" class="btn btn-primary" id="btnSubmit" onclick="myFunction">Submit</button> <br>
+                    <div class="form-group">
+                        <p id="results"></p>
+             
+                    </div>
+                </form>
+            </Div>
+        </Div>
+
+    </Div>
+
+
+<script src="index.js"></script>
+
+
+</body>
+
+</html>
