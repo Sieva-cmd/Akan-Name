@@ -6,7 +6,12 @@ body{
     background-color: brown;
     border-radius: 5px;
     overflow: hidden;
-    margin-top: 50px;
+    margin-top: 40px;
    margin-left: 400px;
  
+}
+.container .col-md-10 #error{
+    width: 40%;
+    background-color: white;
+    color: black;
 }
