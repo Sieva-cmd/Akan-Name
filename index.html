@@ -21,7 +21,7 @@
             <h4>Enter Your birthday to display your Akan name.</h4>
         </Div>
     </Div>
-    <div id="error"> </div>
+
     <Div class="container">
         <Div class="row">
             <Div class="col-md-10">
@@ -32,43 +32,45 @@
                         <input type="text" class="form-control" id="exampleInputDay" placeholder="DD">
 
                     </div>
-                  
+
                     <div class="form-group">
                         <label for="exampleInputMonth">Month</label>
                         <input type="text" class="form-control" id="exampleInputMonth" placeholder="MM">
                     </div>
-                    
+
                     <div class="form-group">
                         <label for="exampleInputMonth">Year</label>
                         <input type="text" class="form-control" id="exampleInputYear" placeholder="YYYY">
                     </div>
                     <div class="form-check">
-                        <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios1"
-                            value="option1" checked>
+                        <input class="form-check-input" type="radio" name="Gender" id="gender" value="female">
                         <label class="form-check-label" for="exampleRadios1">
                             female
                         </label>
-                    </div>
-                    <div class="form-check">
-                        <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios2"
-                            value="option2">
+                        <input class="form-check-input" type="radio" name="Gender" id="gender" value="male">
                         <label class="form-check-label" for="exampleRadios2">
                             male
                         </label>
                     </div>
-                    <button type="submit" class="btn btn-primary" id="btnSubmit" onclick="myFunction">Submit</button> <br>
+
+                    <button type="button" class="btn btn-primary" id="btnSubmit" onclick="myFunction()">Submit</button>
+                    <br>
                     <div class="form-group">
-                        <p id="results"></p>
-             
+
+
                     </div>
                 </form>
+                <div id="error"> </div>
+
+
             </Div>
         </Div>
 
     </Div>
 
 
-<script src="index.js"></script>
+    <script src="index.js"></script>
+
 
 
 </body>
