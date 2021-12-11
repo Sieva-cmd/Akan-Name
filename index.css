@@ -34,8 +34,8 @@ input ,button{
     width: 30%;
 }
 #btnSubmit{
-    margin-left: 100px;
-    margin-top: 50px;
+    margin-left: 80px;
+    margin-top: 30px;
     margin-bottom: 50px;
     border-radius: 10px;
     background-color: white;
@@ -46,5 +46,9 @@ input ,button{
 #btnSubmit:hover{
     background-color: green;
 }
-
-
+#radiobtn{
+    margin-left: 100px;
+}
+#gender{
+    margin-left: 80px;
+}
