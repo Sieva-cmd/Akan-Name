@@ -12,28 +12,21 @@ This is a system that can be used By Ghananians to know their Akan name accordin
 Once you enter the day ,month and year you were born ,the system Automatically prints out your Akan Name.
 
 ## website image
-![Website image]()
+![Website image](https://github.com/Sieva-cmd/Akan-Name/blob/master/images/Screenshot%20from%202021-12-12%2012-11-09.png)
 
 
 ## BDD
-|Behavior                 |Input Example   |Output Example  |
-|OUr program should haddle|When it receives|It should return|
--------------------------------------------------------------
-|A day that is not less   |42              |Invalid day     |   
-|than 0 or greater than   |                |                |
-|31                       |                |                |
--------------------------------------------------------------
-|A manth that is not less |13              |Invalid month   |   
-|than 0 or greater than 12|                |                |
--------------------------------------------------------------
-|A year with 4 digits     | 202            | Invalid year   |
--------------------------------------------------------------
-|Prints out Akan Names    |sartuday        |Ama             |  
-|according to the day of  |female          |                |
-|birth and gender         |                |                |
-|                         |Sartuday        |Kwame           |   
-|                         |male            |                |
--------------------------------------------------------------
+|Behavior </br>Our program should haddle | Input Example </br>When it receives |Output Example </br> It should return |
+|:--------------------------------------:|:-----------------------------------:|:------------------------------------:|
+|A day that is not less </br>than 0 or greater than </br> 31| 42 |Ivalid day |
+|:---------------------------------------------------------:|:--:|:---------:|
+|A month that is not less </br> than 0 or greater than 31 | 32 |Invalid month|
+|:-------------------------------------------------------:|:--:|:-----------:|
+|A year with 4 digit |202 | invalid year |
+|:------------------:|:--:|:------------:|
+|Prints out Akan Names </br>according to the day of </br>birth and gender| female </br> male| Sartuday| Ama </br> Kwame|
+|:----------------------------------------------------------------------:|:----------------:|:-------:|:--------------:|
+
 
 ## set up instructions
 - 1 Go to my Github page using the Link provided.
@@ -51,7 +44,7 @@ Once you enter the day ,month and year you were born ,the system Automatically p
  The Akan Name System is compatible with devices of all sizes and all OS's, and consistent improvements are being made.
 
 ## Installation
-Click on the link below to view the website 
+Click on the link below to view the website https://github.com/Sieva-cmd/Akan-Name.git
 
 ## Technology used 
 - 1 HTML - used to build the structure of the website
@@ -63,9 +56,9 @@ Click on the link below to view the website
 Currently there are no known bugs, but incase of any reach to me through musyokasieva@gmail.com.
 
 ## contact information
-linkedin: sieva musyoka
-github :sieva_cmd
-email : musyokasieva@gmail.com
+- 1 linkedin: sieva musyoka
+- 2 github :sieva_cmd
+- 3 email : musyokasieva@gmail.com
 
 ## Licence 
  MIT License ()
