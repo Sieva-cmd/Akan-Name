@@ -31,7 +31,31 @@ var myFunction = function () {
 
             var gender = document.querySelector('input[name ="Gender"]:checked').value;
             if (gender === "female") {
-                var name
+
+                var name ;
+                // var name = ["Akosua", "Adwoa"," Abenaa"," Akua", "Yaa", "Afua", "Ama"];
+               
+                // if(day === 0){
+                //     document.getElementById("error").innerHTML = ("Your Akan name is Akosua" );
+
+                // } else if(day ===1 ){
+                //     document.getElementById("error").innerHTML = ("Your Akan name is  Adwoa");
+                // } else if(day ===2 ){
+                //     document.getElementById("error").innerHTML = ("Your Akan name is Abenaa");
+                // }
+                // else if(day ===3 ){
+                //     document.getElementById("error").innerHTML = ("Your Akan name is Akua");
+                // }
+                // else if(day ===4 ){
+                //     document.getElementById("error").innerHTML = ("Your Akan name is Yaa ");
+                // }
+                // else if(day ===5 ){
+                //     document.getElementById("error").innerHTML = ("Your Akan name is  Afua" );
+                // }
+                // else if(day ===6 ){
+                //     document.getElementById("error").innerHTML = ("Your Akan name is  Ama" );
+                // }
+
                 switch (day) {
                     case 0:
                         name = "Akosua";
