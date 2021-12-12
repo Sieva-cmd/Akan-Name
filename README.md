@@ -3,12 +3,12 @@
 # Akan Name system
 
 #### By Sieva Lucia
-Am a full stack web developer with enough experince to develop funtional websites.
+Am a full stack web developer with enough experience to develop functional websites.
 
 
 
 ## Description
-This is a system that can be used By Ghananians to know their Akan name according to the day they were born.
+This is a system that can be used By Ghananians to know their Akan names according to the day they were born.
 Once you enter the day ,month and year you were born ,the system Automatically prints out your Akan Name.
 
 ## website image
@@ -29,16 +29,23 @@ Once you enter the day ,month and year you were born ,the system Automatically p
 
 
 ## set up instructions
-- 1 Go to my Github page using the Link provided.
-- 2 Click on the Link to View the website.
-- 3 Clone it to your laptop Using the repository link.
+-  Go to  Github  using the Link provided.
+-  Copy repository link in the Code section
+-  Clone it to your local machine Using the repository link.
+- open your terminal 
+- cd to your project folder
+- if you don't have a folder cd Documents and mkdir myProject
+- cd myProject and write the command below to clone repository
+- git clone https://github.com/Sieva-cmd/Akan-Name.git
+- you already have the AKan Name Sytem in your local machine
+
 
 
 
 ## Requirements
-- 1 View the website in either a computer, phone ,or tablet
+-  View the website in either a computer, phone ,or tablet
 
- - 2 Have an access to internet
+-  Have an access to internet
 
  ## mobile support
  The Akan Name System is compatible with devices of all sizes and all OS's, and consistent improvements are being made.
@@ -47,18 +54,18 @@ Once you enter the day ,month and year you were born ,the system Automatically p
 Click on the link below to view the website https://github.com/Sieva-cmd/Akan-Name.git
 
 ## Technology used 
-- 1 HTML - used to build the structure of the website
-- 2 Css - used to style the pages
-- 3 Bootstrap - used to style pages
-- 4 Javascript -for scripting and adding functionality
+-  HTML - used to build the structure of the website
+-  Css - used to style the pages
+-  Bootstrap - used to style pages
+-  Javascript -for scripting and adding functionality
 
 ## known Bugs
 Currently there are no known bugs, but incase of any reach to me through musyokasieva@gmail.com.
 
 ## contact information
-- 1 linkedin: sieva musyoka
-- 2 github :sieva_cmd
-- 3 email : musyokasieva@gmail.com
+-  linkedin: sieva musyoka
+-  github :sieva_cmd
+-  email : musyokasieva@gmail.com
 
 ## Licence 
  MIT License ()
