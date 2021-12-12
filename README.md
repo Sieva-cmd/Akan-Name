@@ -24,7 +24,7 @@ Once you enter the day ,month and year you were born ,the system Automatically p
 |:-------------------------------------------------------:|:--:|:-----------:|
 |A year with 4 digit |202 | invalid year |
 |:------------------:|:--:|:------------:|
-|Prints out Akan Names </br>according to the day of </br>birth and gender| female </br> male| Sartuday| Ama </br> Kwame|
+|Prints out Akan Names </br>according to the day of </br>birth and gender| sartuday </br> female </br> male|  </br> Ama </br> Kwame|
 |:----------------------------------------------------------------------:|:----------------:|:-------:|:--------------:|
 
 
