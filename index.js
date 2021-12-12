@@ -31,9 +31,8 @@ var myFunction = function () {
 
             var gender = document.querySelector('input[name ="Gender"]:checked').value;
             if (gender === "female") {
-
-                var name ;
-                // var name = ["Akosua", "Adwoa"," Abenaa"," Akua", "Yaa", "Afua", "Ama"];
+                var name
+                //var name = ["Akosua", "Adwoa"," Abenaa"," Akua", "Yaa", "Afua", "Ama"];
                
                 // if(day === 0){
                 //     document.getElementById("error").innerHTML = ("Your Akan name is Akosua" );
